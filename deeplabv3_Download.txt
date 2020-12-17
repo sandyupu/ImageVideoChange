@@ -1,0 +1,5 @@
+Download deeplabv3 model from the below link.
+
+https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5
+
+Copy-paste the above link in your browser and save the file in your local machine.
