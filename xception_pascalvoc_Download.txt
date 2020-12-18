@@ -1,0 +1,5 @@
+Download xception_pascalvoc.pb model from the below link.
+
+https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/xception_pascalvoc.pb
+
+Copy-paste the above link in your browser and save the file in your local machine.
